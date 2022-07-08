@@ -1,6 +1,6 @@
 require "language/node"
 
-class MitreSaf < Formula
+class SafCli < Formula
   desc "CLI for streamlining security automation of systems and DevOps pipelines"
   homepage "https://github.com/mitre/saf"
   url "https://registry.npmjs.org/@mitre/saf/-/saf-1.1.11.tgz"
