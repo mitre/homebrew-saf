@@ -4,7 +4,7 @@ class SafCli < Formula
   desc "CLI for streamlining security automation of systems and DevOps pipelines"
   homepage "https://github.com/mitre/saf"
   url "https://registry.npmjs.org/@mitre/saf/-/saf-1.1.12.tgz"
-  sha256 "d93b47b083835db60c3c2473aa50e6a71322efb45a76083c2f0a3e5452d0287e"
+  sha256 "08d6acc76129e1da06730d4a7ec98a2b9ff6a9f9a4be8f737fd8f89e6ed972b0"
   license "Apache-2.0"
 
   livecheck do
