@@ -3,8 +3,8 @@ require "language/node"
 class SafCli < Formula
   desc "CLI for streamlining security automation of systems and DevOps pipelines"
   homepage "https://github.com/mitre/saf"
-  url "https://registry.npmjs.org/@mitre/saf/-/saf-1.2.9.tgz"
-  sha256 "68f87f121402e8e49b2ec83ef20fbe3f4d439804c5dc7a67d7d078bd901849c2"
+  url "https://registry.npmjs.org/@mitre/saf/-/saf-1.2.10.tgz"
+  sha256 "5e19e7665bd703e44fdaa3752be2f3d0e9a4ca5c22458594a7ab9fad77f730ca"
   license "Apache-2.0"
 
   livecheck do
